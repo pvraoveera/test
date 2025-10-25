@@ -1,2 +1,2 @@
 # test
-test repo
+test repo for practising the Git course
